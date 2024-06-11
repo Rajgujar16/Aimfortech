@@ -536,7 +536,7 @@ body{
 }
 
 .coding-lng img{
-  filter: drop-shadow(0 0 5px rgba(237, 234, 245, 0.651)) drop-shadow(0 0 10px rgba(254, 252, 255, 0.418)) drop-shadow(0 0 20px rgba(240, 239, 241, 0.37));
+  filter: drop-shadow(0 0 5px rgba(0, 0, 0, 0.651)) drop-shadow(0 0 10px rgba(0, 0, 0, 0.418)) drop-shadow(0 0 20px rgba(19, 19, 19, 0.37));
 }
  
 
