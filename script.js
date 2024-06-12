@@ -8,7 +8,7 @@ menuIcon.addEventListener('click', () => {
     navbg.classList.toggle('active');
 });
 
-// 
+// Slider
 let items = document.querySelectorAll('.slider .item');
 let next = document.getElementById('next');
 let prev = document.getElementById('prev');
